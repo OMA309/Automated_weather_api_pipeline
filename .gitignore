@@ -1,0 +1,10 @@
+config
+logs
+plugins
+*.tfstate*
+.terraform
+__pycache__
+venv
+terraform.tfstate.backup
+terraform.tfstate
+airflow_docker/dags/.env
